@@ -1,0 +1,16 @@
+h1{text-decoration: underline;
+background-color: #21ddfb;
+margin-top:50px;
+margin-left:30%;
+margin-right:25%;
+border-radius:4px;
+text-align:center;}
+
+.card-body{background-color:#f4425f;}
+
+.card-body{font-size:30px;
+color:white;
+font-family: sans-serif;}
+
+.card-body button{padding:6px;
+font-size:30px;}
